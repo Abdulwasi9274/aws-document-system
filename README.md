@@ -372,9 +372,7 @@ Possible future enhancements:
 
 ## 👨‍💻 Author
 
-**Abdul Wasim**
-
-B.Tech — Electronics & Communication Engineering
+**Abdul Wasi**
 
 GitHub:
 
